@@ -5,7 +5,11 @@ I'm an aspiring software engineer studying at Kocaeli University. Currently work
 What I can do:
 
 --HTML/CSS/Javascript
+
+--ReactJS, Tailwind
+
 --Java
+
 --C
+
 --Python
---ReactJS, Tailwind, 
