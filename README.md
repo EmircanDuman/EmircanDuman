@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-I'm an aspiring software engineer studying at Kocaeli University. Currently working on improving my front-end developing skills.
+Software Engineer working at Menulux
 
-🚀🚀🚀
-What I can do:
-
---HTML/CSS/Javascript
-
---ReactJS, Tailwind
-
---Java
-
---C
-
---Python
+Android / .NET / Java
