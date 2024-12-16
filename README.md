@@ -1,5 +1,5 @@
 Software Engineer working at Menulux
 
-Android / .NET / Java / SQL
+Android Developer
 
 TR/EN
