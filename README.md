@@ -1,5 +1,3 @@
-Software Engineer working at Menulux
-
-Android Developer
+Software Engineer working at Edunova
 
 TR/EN
