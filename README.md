@@ -1,9 +1,7 @@
 Merhaba, ben Emircan
 
-Backend Engineer | C# | .NET Core Web API | Entity Framework | SQL | REST API | OAuth | JWT  
-
 Hakkımda
-- Bilgisayar Mühendisliği mezunuyum  
+- Kocaeli Üniversitesi Bilgisayar Mühendisliği mezunuyum  
 - **C#** ve **.NET Core** ile arka uç geliştirme deneyimine sahibim  
 - **OAuth** & **JWT** kullanarak güvenli API geliştirme üzerine çalışıyorum  
 - **Entity Framework** ve **SQL** ile veri modelleme & optimizasyon tecrübem var  
