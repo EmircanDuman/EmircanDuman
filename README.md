@@ -16,5 +16,5 @@ Hakkımda
 - ReactJS | NextJS 
 
 ## İletişim
-- [LinkedIn](https://www.linkedin.com/in/emircan-duman-3a4a67251/)
+- [LinkedIn](https://www.linkedin.com/in/emircanduman/)
 - emircandum10@gmail.com
