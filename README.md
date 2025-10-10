@@ -6,7 +6,7 @@ Hakkımda
 - Mikroservis mimarileri, mesajlaşma sistemleri, HTTP/gRPC tabanlı servis iletişimi ve bulut teknolojileri üzerine kendimi geliştirmeye devam ediyorum
 
 
-## Deneyimli olduğum teknolojiler
+## İlgilendiğim teknolojiler
 - C# | .NET Core Web API | Dependency Injection | SOLID prensipleri / Clean Architecture
 - SQL | NoSQL | RDBMS | PostgreSQL | MySQL | Entity Framework | MongoDB
 - RESTful servisler | HTTP | gRPC | SignalR | AMQP | RabbitMQ
