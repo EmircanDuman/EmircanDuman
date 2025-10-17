@@ -1,20 +1,17 @@
-Merhaba, ben Emircan
+# Hi, I’m Emircan
 
-Hakkımda
-- Kocaeli Üniversitesi Bilgisayar Mühendisliği mezunuyum
-- **C#** ve **.NET Core** ile arka uç geliştirmeleri yapıyorum
-- Mikroservis mimarileri, mesajlaşma sistemleri, HTTP/gRPC tabanlı servis iletişimi ve bulut teknolojileri üzerine kendimi geliştirmeye devam ediyorum
+## About Me
+I am a **Computer Engineering graduate from Kocaeli University** with a passion for **backend development using C# and ASP.NET Core**.  
+I enjoy building **scalable microservices**, working with **messaging systems**, and developing **HTTP/gRPC-based APIs** while continuously exploring **cloud technologies** and modern backend architectures.
 
+## Technologies & Skills
+- **Backend:** C# | .NET Core Web API | Dependency Injection | SOLID Principles | Clean Architecture  
+- **Databases:** SQL | NoSQL | RDBMS | PostgreSQL | MySQL | Entity Framework | MongoDB  
+- **Communication & Messaging:** RESTful APIs | HTTP | gRPC | SignalR | AMQP | RabbitMQ  
+- **Authentication & Security:** OAuth2 | JWT | Duende Identity Server  
+- **Architecture & DevOps:** Microservices | Docker | Git / GitHub / GitLab | Postman | Swagger  
+- **Frontend / Web:** ReactJS | NextJS  
 
-## İlgilendiğim teknolojiler
-- C# | .NET Core Web API | Dependency Injection | SOLID prensipleri / Clean Architecture
-- SQL | NoSQL | RDBMS | PostgreSQL | MySQL | Entity Framework | MongoDB
-- RESTful servisler | HTTP | gRPC | SignalR | AMQP | RabbitMQ
-- OAuth2 | JWT | Duende Identity Server
-- Mikroservis Mimarileri
-- Docker | Git / Github / Gitlab | Postman | Swagger
-- ReactJS | NextJS 
-
-## İletişim
-- [LinkedIn](https://www.linkedin.com/in/emircanduman/)
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/emircanduman/)  
 - emircandum10@gmail.com
